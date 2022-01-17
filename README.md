@@ -16,3 +16,4 @@ The data collection is based on scraped data from flickr, google images, and yan
 What kind of flower is that?
 
 Dataset can be downloaded from Kaggle - https://www.kaggle.com/alxmamaev/flowers-recognition
+
